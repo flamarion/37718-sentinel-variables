@@ -1,0 +1,5 @@
+param budget
+
+print(budget)
+
+main = rule { true }
